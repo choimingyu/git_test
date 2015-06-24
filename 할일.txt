@@ -1,0 +1,28 @@
+﻿1. iMags
+	모바일 버전 컴파일
+	
+2. CapSyong
+	USB Lock 구매
+	속도조절 기능 마무리
+	매뉴얼 검토
+	절전 기능 테스트
+	프로그램 등록(*)
+	
+3. SynchRo
+	임무택 소스 분석
+	Beacon, NFC, QRCode 적용
+	STT/TTS 적용
+	배리어프리 앱간 통신을 통한 ACR 동기화 방법 연구
+	모바일앱 UX/UI 리뉴얼
+	
+4. CUG
+	채팅 프로그램 제작
+	
+5. 벤쳐인증
+	기술사업계획서 작성
+
+6. WebRTC
+
+7. Room 데모사이트 분석
+
+8. LoveRoom 돌려보기
